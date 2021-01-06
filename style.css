@@ -44,7 +44,7 @@ color: crimson;}
 /*--------header--------------*/
 /*-----------hero-------------*/
 #hero{
-background-image: url("F:/Piyusha/BBA-CA/mama/girl-blue-top-driving-v2.jpg"); 
+background-image: url("F:/Piyusha/BBA-CA/ABCDrive/ABCDrive/girl-blue-top-driving-v2.jpg"); 
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
@@ -241,7 +241,7 @@ justify-content: center;
 flex-direction: column;
 padding: 10px;
 border-radius: 10px;
-background-image: url("F:/Piyusha/BBA-CA/mama/bubble.png");
+background-image: url("F:/Piyusha/BBA-CA/ABCDrive/ABCDrive/bubble.png");
 background-size: cover;
 margin: 1.5%;
 color: white;
