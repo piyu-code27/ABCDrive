@@ -307,10 +307,10 @@ letter-spacing: .5rem;
 #contact .contact{
 flex-direction: column;
 max-width: 1200px;
-margin: 0;
+margin: 0 auto;
 }
 #contact .contact-items{
-width: 25%;
+width: 390px;
 }
 #contact .contact-item{
 width: 80%;
